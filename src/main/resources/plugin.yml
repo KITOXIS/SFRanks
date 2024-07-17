@@ -1,0 +1,7 @@
+name: SFRanks
+version: '1.0'
+main: net.starfal.SFRanks
+api-version: '1.21'
+authors: [ Starfal Team, kitoxis, Tootepl ]
+description: Adds ranks & permission management! Also includes GUIs!
+website: https://starfal.net
