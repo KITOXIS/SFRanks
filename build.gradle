@@ -22,6 +22,7 @@ repositories {
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21-R0.1-SNAPSHOT")
     implementation "dev.jorel:commandapi-bukkit-shade:9.5.0"
+    implementation 'org.xerial:sqlite-jdbc:3.46.0.0'
 }
 
 shadowJar {
